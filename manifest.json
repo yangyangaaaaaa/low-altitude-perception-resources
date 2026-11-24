@@ -1,0 +1,13 @@
+{
+  "package": "低空环境感知基座模型研究综述开放资源",
+  "version": "2026-11-24-v13",
+  "language": "zh-CN",
+  "methods_and_models": 142,
+  "datasets_and_benchmarks": 18,
+  "papers": 159,
+  "metrics": 29,
+  "homepage": "README.md",
+  "evaluation_code": "evaluation/metrics_utils.py",
+  "generated_on": "2026-11-24",
+  "evaluation_tests": "evaluation/test_metrics_utils.py"
+}
