@@ -52,7 +52,7 @@
 | AI-TOD | 数据集/基准 | AI-TOD；小目标；航空影像；检测；密集目标 | [A Normalized Gaussian Wasserstein Distance for Tiny Object Detection](https://arxiv.org/abs/2110.13389) | [项目说明/代码](https://github.com/jwwangchn/AI-TOD) |
 | WHU-MVS / WHU-OMVS | 数据集/基准 | WHU-OMVS；多视图立体；斜视航空影像；深度估计；三维重建 | [Deep learning based multi-view stereo matching and 3D scene reconstruction from oblique aerial images](https://doi.org/10.1016/j.isprsjprs.2023.08.015) | [数据主页](https://gpcv.whu.edu.cn/data/WHU_OMVS_dataset/WHU_dataset.htm)<br>[项目说明/代码](https://github.com/gpcv-liujin/Ada-MVS)<br>[数据主页](https://gpcv.whu.edu.cn/data/) |
 | UDD6 | 数据集/基准 | 无人机；城市场景；语义分割；立面；道路；植被；车辆；屋顶；其他 | [Large-Scale Structure From Motion With Semantic Constraints of Aerial Images](https://doi.org/10.1007/978-3-030-03398-9_30) | [项目说明/代码](https://github.com/MarcWong/UDD)<br>[Google Drive 数据](https://drive.google.com/file/d/1BNL8HNFRiNjSzdcQJo-uXiejZJ6DgunY/view?usp=sharing)<br>[百度网盘数据](https://pan.baidu.com/s/1sQavCwH29PUwTEgF3teMBQ) |
-| VisDrone | 数据集/基准 | 无人机视觉；检测；跟踪 | [VisDrone-DET2021: The Vision Meets Drone Object Detection in Image and Video](https://doi.org/10.1109/ICCVW54120.2021.00319) | [项目说明/代码](https://github.com/VisDrone/VisDrone-Dataset)<br>[VisDrone 资源主页](https://aiskyeye.com/) |
+| VisDrone | 数据集/基准 | 无人机视觉；检测；跟踪 | [VisDrone-DET2021: The Vision Meets Drone Object Detection in Image and Video](https://doi.org/10.1109/ICCVW54120.2021.00319) | [项目说明/代码](https://github.com/VisDrone/VisDrone-Dataset)<br>[VisDrone 资源主页](https://visdrone.org/visdrone) |
 | TravelUAV | 数据集/基准 | 无人机；视觉语言导航；仿真平台；TRAVEL；数据集 | [Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology](https://arxiv.org/abs/2410.07087) | [项目说明/代码](https://github.com/buaa-colalab/TravelUAV)<br>[OpenUAV 项目主页](https://prince687028.github.io/OpenUAV/)<br>[Hugging Face 数据集](https://huggingface.co/datasets/wangxiangyu0814/TravelUAV) |
 | OpenFly / AerialVLN | 数据集/基准 | 视觉语言导航；无人机；具身智能；轨迹 | [Openfly: A comprehensive platform for aerial vision-language navigation](https://arxiv.org/abs/2502.18041) | [OpenFly 项目主页](https://shailab-ipec.github.io/openfly/) |
 
@@ -351,7 +351,7 @@ DroneVehicle 提供无人机视角的可见光与红外车辆影像，面向跨�
 
 **数据与项目入口：** [项目说明/代码](https://github.com/VisDrone/VisDrone-Dataset)
 
-**补充入口：** [VisDrone 资源主页](https://aiskyeye.com/)
+**补充入口：** [VisDrone 资源主页](https://visdrone.org/visdrone)
 
 **相关论文：** [VisDrone-DET2021: The Vision Meets Drone Object Detection in Image and Video](https://doi.org/10.1109/ICCVW54120.2021.00319)<br>[VisDrone-MOT2020: The Vision Meets Drone Multiple Object Tracking Challenge Results](https://doi.org/10.1007/978-3-030-66823-5_43)
 
@@ -365,7 +365,7 @@ DroneVehicle 提供无人机视角的可见光与红外车辆影像，面向跨�
 
 **数据与项目入口：** [项目说明/代码](https://github.com/VisDrone/VisDrone-Dataset)
 
-**补充入口：** [VisDrone 资源主页](https://aiskyeye.com/)
+**补充入口：** [VisDrone 资源主页](https://visdrone.org/visdrone)
 
 **相关论文：** [VisDrone-DET2021: The Vision Meets Drone Object Detection in Image and Video](https://doi.org/10.1109/ICCVW54120.2021.00319)
 
@@ -379,7 +379,7 @@ DroneVehicle 提供无人机视角的可见光与红外车辆影像，面向跨�
 
 **数据与项目入口：** [项目说明/代码](https://github.com/VisDrone/VisDrone-Dataset)
 
-**补充入口：** [VisDrone 资源主页](https://aiskyeye.com/)
+**补充入口：** [VisDrone 资源主页](https://visdrone.org/visdrone)
 
 **相关论文：** [VisDrone-MOT2020: The Vision Meets Drone Multiple Object Tracking Challenge Results](https://doi.org/10.1007/978-3-030-66823-5_43)
 
