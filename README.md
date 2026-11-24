@@ -744,8 +744,7 @@ TRAVEL 是面向真实感无人机视觉语言导航的平台、基准与方法�
 
 | 文件 | 内容 |
 | :--- | :--- |
-| README.md | 中文主页；直接展示完整的方法、数据集与论文索引 |
-| README_zh.md | 中文主页副本 |
+| README.md | 展示完整的方法、数据集与论文索引 |
 | methods_open_resources.csv | 方法/模型、研究方向、关键词及论文和项目入口 |
 | datasets_open_resources.csv | 数据集简介、多个入口和相关论文 |
 | papers_index.csv | 论文题名、关键词和论文入口索引 |
@@ -756,7 +755,6 @@ TRAVEL 是面向真实感无人机视觉语言导航的平台、基准与方法�
 | manifest.json | 资源包名称、版本和条目数量 |
 | checksums_sha256.csv | 包内文件SHA-256校验值 |
 
-更新时间：2026-11-24
 
 
 
